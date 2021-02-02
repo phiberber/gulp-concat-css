@@ -1,4 +1,4 @@
-# [gulp](https://github.com/wearefractal/gulp)-concat-css
+# [gulp](https://github.com/wearefractal/gulp)-concat-css-safe
 [![Build Status](https://secure.travis-ci.org/mariocasciaro/gulp-concat-css.png?branch=master)](https://travis-ci.org/mariocasciaro/gulp-concat-css)
 [![NPM version](http://img.shields.io/npm/v/gulp-concat-css.svg)](https://www.npmjs.org/package/gulp-concat-css)
 [![Dependency Status](https://david-dm.org/mariocasciaro/gulp-concat-css.svg)](https://david-dm.org/mariocasciaro/gulp-concat-css)
